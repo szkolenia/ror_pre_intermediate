@@ -1,7 +1,7 @@
 {
   "name": "Szkolenie Ruby on Rails",
-  "description": "Poziom podstawowy",
-  "author": "Bogusław Tarnowski & Adam Przymusiała",
+  "description": "Poziom średnio zaawansowany",
+  "author": "Szymon Fiedler, Adam Przymusiała & Bogusław Tarnowski ",
   "templates" : {
       "special" : "simple.tpl"
   },
