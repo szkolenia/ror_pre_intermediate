@@ -1,0 +1,16 @@
+{
+  "name": "Szkolenie Ruby on Rails",
+  "description": "Poziom podstawowy",
+  "author": "Bogusław Tarnowski & Adam Przymusiała",
+  "templates" : {
+      "special" : "simple.tpl"
+  },
+  "pause_msg": "Przerwa",
+  "sections": [
+    {"section":"day_1"},
+    {"section":"day_2"},
+    {"section":"day_3"},
+    {"section":"day_4"},
+    {"section":"day_5"}
+  ]
+}
