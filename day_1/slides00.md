@@ -1,7 +1,7 @@
 <!SLIDE title-slide transition=fade>
 
 # Ruby on Rails #
-## dla średnio zaawansowanych ##
+## dla średniozaawansowanych ##
 
 <!SLIDE title-slide transition=fade>
 
@@ -12,3 +12,4 @@
 # Plan na dziś #
 
   * Przypomnienie i poprawa środowiska pracy
+  * 

@@ -58,3 +58,4 @@
   * Zmień (a = 1) na (@a = 1)
   * Zamień tekst podzielony w akapity w jeden długi tekst 
   * Zakomentuj wszystko i zwiększ wcięcie o dwie spacje
+
